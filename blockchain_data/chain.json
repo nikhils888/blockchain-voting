@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "timestamp": "1748552989.0918417",
+    "voter_hash": "GENESIS",
+    "vote": "GENESIS",
+    "previous_hash": "0",
+    "nonce": 0,
+    "current_hash": "7688e3512b6d92cddcd5406952fac74186643faef9fabce02b98247d7baa7e96"
+  },
+  {
+    "index": 2,
+    "timestamp": "1748553169.220103",
+    "voter_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "vote": "Alice",
+    "previous_hash": "7688e3512b6d92cddcd5406952fac74186643faef9fabce02b98247d7baa7e96",
+    "nonce": 0,
+    "current_hash": "9f6dbec344598b4536e9299af1f970b66fab46592a0de8069fcf55ab78d6142c"
+  },
+  {
+    "index": 3,
+    "timestamp": "1748553315.3506792",
+    "voter_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "vote": "Alice",
+    "previous_hash": "9f6dbec344598b4536e9299af1f970b66fab46592a0de8069fcf55ab78d6142c",
+    "nonce": 0,
+    "current_hash": "8b497cdf42ddbc99cf19a572f6de0491c647d80cfcd5d25403714c729af2422d"
+  },
+  {
+    "index": 4,
+    "timestamp": "1748553338.0963569",
+    "voter_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "vote": "Bob",
+    "previous_hash": "8b497cdf42ddbc99cf19a572f6de0491c647d80cfcd5d25403714c729af2422d",
+    "nonce": 0,
+    "current_hash": "1a380f94ec202cb3747927aeb268f96ad96ea55528fefbf7243ca6f783b20f18"
+  }
+]
